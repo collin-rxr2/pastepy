@@ -22,7 +22,12 @@ Example Output:
 ```
 https://pastebin.com/affZakP8
 ```
-## Developer Key
+
+## Requirements
+You need the Requests Module, install it through:
+`pip install requests`
+
+## API Key
 To get your API Key, log into Pastebin, then go to:
 https://pastebin.com/doc_api
 Scroll down to "Your Unique Developer API Key" and copy it.
